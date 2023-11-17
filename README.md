@@ -1,1 +1,2 @@
-# College-review
+# College-reviews
+Student carrear guide website
