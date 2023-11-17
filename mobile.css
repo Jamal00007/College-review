@@ -1,0 +1,14 @@
+@media screen and(max-width:389px) {
+    .navigation {
+        display: revert;
+    }
+    
+    
+    .nav-left span {
+        margin: -7px -50px;
+    }
+    .nav-right{
+        margin: 0px -114px;
+    }
+
+}
